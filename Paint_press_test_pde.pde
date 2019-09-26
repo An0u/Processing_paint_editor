@@ -29,7 +29,7 @@ void mouseClicked() {
 
 //We're working with 10px grid so mod grid, mod of a value under grid gets subtracted.
 void roundRect() {
-  if (mouseX%grid < 10 || mouseY%grid < 10) {
+  if (mouseX%grid < grid/2 || mouseY%grid < 10) {
     int rectx = mouseX-(mouseX%grid);
     int recty = mouseY-(mouseY%grid);
     stroke(0);
