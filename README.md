@@ -1,4 +1,4 @@
 # Processing_paint_editor
 Pixelated paint in processing
 
-![Scrnshot](images/scheme.jpg)
+![Scrnshot](images/Cheese_Wed-25Sep19_10.47.png)
